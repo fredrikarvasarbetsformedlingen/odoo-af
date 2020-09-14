@@ -7,7 +7,7 @@
     "license": "AGPL-3",
     "website": "https://vertel.se/",
     "category": "Tools",
-    "depends": ["calendar", "contacts", "partner_view_360" ],
+    "depends": ["calendar", "contacts", ],
     "external_dependencies": [
     ],
     "data": [
