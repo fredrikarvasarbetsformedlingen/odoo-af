@@ -22,9 +22,6 @@ if (_mtm) {
   console.error("Matomo global object not found.");
 }
 
-
-
-
 // var matomo_data = matomo_data || [];
 // const matomo_entry = {
 //   "mtm.startTime": new Date().getTime(),
