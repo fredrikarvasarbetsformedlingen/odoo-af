@@ -2,10 +2,10 @@
 
 {
     "name": "AF Security Rules",
-    "version": "12.0.1.0.1",
+    "version": "12.0.1.0.2",
     "author": "Vertel AB",
     "license": "AGPL-3",
-    "description": "Security rules for Arbetsförmedlingen.",
+    "description": "Security rules for Arbetsförmedlingen. v12.0.1.0.2 Added ServiceDesk user-rights",
     "website": "https://vertel.se/",
     "category": "Tools",
     "depends": [
